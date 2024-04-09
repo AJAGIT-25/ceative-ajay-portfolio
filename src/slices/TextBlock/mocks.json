@@ -1,0 +1,20 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"text": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Officia tempor sunt et esse. Nisi aliquip officia aute aute aliqua consequat pariatur dolor pariatur Lorem anim duis officia sint aliquip. Consectetur cillum enim nisi."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
